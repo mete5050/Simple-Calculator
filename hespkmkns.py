@@ -20,5 +20,3 @@ elif(islem == "*"):
 	carp(s1 , s2)
 elif(islem == "/"):
 	bol(s1 , s2)
-
-
