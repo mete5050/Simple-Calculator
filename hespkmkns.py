@@ -1,4 +1,4 @@
-€def topla(x,y):
+def topla(x,y):
 	print(x+y)
 def cikar(x,y):
 	print(x-y)
